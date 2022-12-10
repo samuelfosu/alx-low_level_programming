@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * maim - prints alphabet in lowercase and uppercase line
+ * main - prints alphabet in lowercase and uppercase line
  *
  * Return: 0
  */
@@ -24,6 +24,6 @@ int main(void)
 			putchar(d);
 			d++;
 		}
-	putchar("\n")
-	return (0)
+	putchar('\n');
+	return (0);
 }
