@@ -2,10 +2,9 @@
 
 /**
  * main - Print _putchar
- i*
+ *
  * Return: 0
  */
-
 int main(void)
 {
 	_putchar('_');
