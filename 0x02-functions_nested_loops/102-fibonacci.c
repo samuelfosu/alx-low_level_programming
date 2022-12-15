@@ -10,7 +10,7 @@
 int main(void)
 {
 	int count;
-	unsigned long fb1 = 0, fib2 = 1, sum;
+	unsigned long fib1 = 0, fib2 = 1, sum;
 
 	for (count = 0; count < 50; count++)
 	{
@@ -18,12 +18,12 @@ int main(void)
 		printf("%lu", sum);
 
 		fib1 = fib2;
-		fib = sum;
+		fib2 = sum;
 
 		if (count == 49)
 			printf("\n");
 		else
 			printf(", ");
 	}
-	return (0)
+	return (0);
 }
