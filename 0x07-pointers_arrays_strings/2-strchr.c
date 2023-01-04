@@ -1,10 +1,10 @@
-#inlcude "main.h"
+#include "main.h"
 
 /**
- * _strchr - gets the length of a prefix suubstring.
- * @s: string
+ * _strchr - locates a character in a string,
+ * @s: string.
  * @c: character.
- * Return: pointer to first character occurence
+ * Return: the pointer to the first occurrence of the character c.
  */
 
 char *_strchr(char *s, char c)
