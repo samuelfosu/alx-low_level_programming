@@ -1,4 +1,4 @@
-# ALX Low Levekl Programming
+# ALX Low Level Programming
 
  Imagine you have a set of really simple and basic LEGO bricks. These bricks represent the most fundamental instructions that a computer understands directly. Low-level programming is like building with these basic LEGO bricks. It's very detailed and close to how the computer actually works.
 
