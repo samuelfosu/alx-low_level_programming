@@ -7,5 +7,3 @@ So, low-level programming is like giving the computer very specific instructions
 In contrast, high-level programming is like using bigger, more specialized LEGO pieces that represent more complex instructions. It's easier for humans to work with these bigger pieces, but the computer has to translate them into the simpler instructions (the low-level stuff) to actually do the work.
 
 In summary, low-level programming is like using the most basic instructions, similar to simple LEGO bricks, to tell the computer exactly what to do. It's like talking to the computer in its own language, but it requires more attention to detail.
-
-![](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
