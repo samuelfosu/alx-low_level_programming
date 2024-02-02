@@ -1,11 +1,11 @@
 #include "lists.h"
 
 /**
- * list_len - returns elements in a linked list
+ * list_len - returns the number of elements in a linked lists
+ * @h: linked list of type listint_t to traverse
  *
- * Return; number of elements
+ * Return: number of elements in a linked list_t list.
  */
-
 size_t list_len(const list_t *h)
 {
 	size_t num = 0;
