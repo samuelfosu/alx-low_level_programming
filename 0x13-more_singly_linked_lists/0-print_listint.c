@@ -2,7 +2,7 @@
 
 /**
  * print_listint - prints all the number of elements
- *
+ * @h: linked list
  *
  * Return: number of nodes
  */
