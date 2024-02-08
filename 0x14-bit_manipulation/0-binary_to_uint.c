@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * binary_to_unit - converts binary number
+ * binary_to_uint - convert a binary number
  * @b: char string
  *
  * Return: converted decimal number otherwise 0
@@ -21,7 +21,7 @@ unsigned int binary_to_uint(const char *b)
 		if (b[len] != '0' && b[len] != '1')
 			return (0);
 	}
-	
+
 	for (power = 1, total = 0, len--; len >= 0; len--, power *= 2)
 	{
 		if (b[len] == '1')
