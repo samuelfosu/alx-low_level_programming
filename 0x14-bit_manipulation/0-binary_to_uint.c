@@ -3,9 +3,9 @@
 
 /**
  * binary_to_unit - converts binary number
- * @b: binary
+ * @b: char string
  *
- * Return: unsigned int
+ * Return: converted decimal number otherwise 0
  */
 
 unsigned int binary_to_uint(const char *b)
