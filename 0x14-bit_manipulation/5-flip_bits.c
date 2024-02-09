@@ -2,6 +2,8 @@
 
 /**
  * flip_bits - returns the number of bits
+ * @n: 1
+ * @m: 2
  *
  * Return: number of bits.
  */
