@@ -3,8 +3,9 @@
 /**
  * create_file - creates a file
  * @filename: name of the file
+ * @text_content: content written in the file.
  *
- * Return: 1 when successful, otherwise -1
+ * Return: 1 if it success. -1 if it fails.
  */
 
 int create_file(const char *filename, char *text_content)
